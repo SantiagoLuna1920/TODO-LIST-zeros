@@ -1,3 +1,3 @@
-# Configuracion webpack para proyectos personales
+# Proyecto personal TODO-LIST
 
-Esta es una configuracion para poder instalar webpack para futuros proyectos en html, css y javascript, para poder usar las configuraciones del webpack se deberan ejecutar los siguientes comandos en el orden establecido, para esto deberemos primero ejecutar ```npm install``` luego de esto, se debera ejecutar ```npm run build```
+Proyecto creado para afianzar conocimientos en javaScript, creado con paradigama POO, si deseas descargar el proyecto no te olvides de ejecutar primero ```npm install``` y ```npm run build``` fue agregado webpack al proyecto, esto con el fin de poder empaquetar y manejar mejor el archivo de imagenes.
